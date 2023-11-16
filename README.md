@@ -3,31 +3,30 @@ Conducted a thorough analysis of a retail company's data, spanning both physical
 
 ## Project KPIs
 - Total Sales Growth:
-  Achieved a year-over-year growth in total sales, leading to a [percentage] increase in revenue from [start year] to [end year].
-
+  _Achieved a year-over-year growth in total sales, leading to a [percentage] increase in revenue from [start year] to [end year]._
 - Supplier Performance Improvement:
-  Enhanced relationships with the top 5 suppliers, resulting in a [percentage] increase in total sales through effective negotiation and collaboration.
+  _Enhanced relationships with the top 5 suppliers, resulting in a [percentage] increase in total sales through effective negotiation and collaboration._
 
 - Top-Selling Items Identification:
-  Identified and promoted the top 10 best-selling items, contributing to a [percentage] boost in total sales and improved inventory turnover.
+  _Identified and promoted the top 10 best-selling items, contributing to a [percentage] boost in total sales and improved inventory turnover._
 
 - Seasonal Sales Optimization:
-  Leveraged seasonal sales trends to optimize inventory management, leading to a [percentage] increase in warehouse sales during peak months.
+  _Leveraged seasonal sales trends to optimize inventory management, leading to a [percentage] increase in warehouse sales during peak months._
 
 - Item Type Contribution:
-  Determined that 'Electronics' is the highest contributing item type, responsible for [percentage] of total sales, and developed strategies to capitalize on this category.
+  _Determined that 'Electronics' is the highest contributing item type, responsible for [percentage] of total sales, and developed strategies to capitalize on this category._
 
 - Actionable Recommendations Implementation:
-  Successfully implemented three actionable recommendations, resulting in a [percentage] increase in overall sales and enhanced operational efficiency.
+  _Successfully implemented three actionable recommendations, resulting in a [percentage] increase in overall sales and enhanced operational efficiency._
 
 - Data Cleaning and Efficiency:
-  Improved data quality and analysis efficiency by implementing data cleaning and automation, reducing data preparation time by [percentage].
+  _Improved data quality and analysis efficiency by implementing data cleaning and automation, reducing data preparation time by [percentage]._
 
 - Data Visualization Skills:
-  Developed compelling data visualizations that effectively communicated insights, aiding in data-driven decision-making for the company.
+  _Developed compelling data visualizations that effectively communicated insights, aiding in data-driven decision-making for the company._
 
 - Clear and Concise Reporting:
-  Delivered a comprehensive report summarizing findings and actionable insights, facilitating data-driven decision-making for the company.
+  _Delivered a comprehensive report summarizing findings and actionable insights, facilitating data-driven decision-making for the company._
 
 - Business Impact:
-  Significantly contributed to the company's profitability by [percentage], demonstrating the impact of data-driven strategies on business outcomes.
+  _Significantly contributed to the company's profitability by [percentage], demonstrating the impact of data-driven strategies on business outcomes._
